@@ -22,7 +22,11 @@ Through both my professional work and personal projects, I focus on understandin
 - Windows 10/11
 - DHCP/DNS
 - Azure/Entra
-
+  
+**Networking & Infrastructure Platforms**
+- Cisco Meraki
+- Verkada
+  
 **Security Lab Technologies**
 - OPNsense Firewall
 - Oracle VirtualBox
