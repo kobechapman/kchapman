@@ -17,4 +17,3 @@ A simulated enterprise Active Directory environment used to generate and analyze
 
 🔗 [soc-detection-lab-architecture](https://github.com/kobechapman/soc-detection-lab-architecture) 
 
-
