@@ -28,9 +28,9 @@ Through both my professional work and personal projects, I focus on understandin
 - Oracle VirtualBox
 - ParrotOS
 
-## 🛡️Cyber Security Projects:
+## 🛡️Cyber Security Projects
 
-### 🔗[Soc-Detection-Lab-Architecture](https://github.com/kobechapman/soc-detection-lab-architecture)
+### 🧪[Soc-Detection-Lab-Architecture](https://github.com/kobechapman/soc-detection-lab-architecture)
 A simulated enterprise Active Directory environment used to generate endpoint telemetry and analyze attack activity using Splunk SIEM.
 
 
