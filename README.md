@@ -10,10 +10,11 @@ Much of this portfolio documents the labs and projects I build to study security
 
 ---
 
-## Cyber Security Projects:
+## 🛡️Cyber Security Projects:
 
 ### SOC Detection Lab Architecture
 A simulated enterprise Active Directory environment used to generate and analyze security telemetry using Splunk SIEM.
 
-Repo: 
+🔗 [soc-detection-lab-architecture](https://github.com/kobechapman/soc-detection-lab-architecture) 
+
 
