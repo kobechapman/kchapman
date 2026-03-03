@@ -5,7 +5,7 @@ Cybersecurity practitioner and IT technician focused on enterprise security oper
 
 ## About Me
 I currently work as an Information Technology Technician supporting enterprise network infrastructure and endpoint systems. I hold a Bachelor of Applied Science in Cybersecurity along with the CompTIA Security+ and Network+ certifications.
-Through both my professional work and personal projects, I focus on understanding how enterprise environments operate and how they can be monitored and defended against cyber threats. Much of my portfolio centers around building security labs and detection engineering projects focused on security monitoring, incident response, and enterprise defensive practices.
+Through both my professional work and personal projects, I focus on understanding how enterprise environments operate and how they can be monitored and defended against cyber threats. Much of my portfolio focuses on detection engineering projects that explore how cyber attacks can be identified and analyzed within enterprise environments.
 
 ---
 
