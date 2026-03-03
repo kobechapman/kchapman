@@ -1,5 +1,5 @@
 # Kobe Chapman
-Cybersecurity practitioner and IT technician focused on security monitoring in enterprise environments. Particularly interested in detection engineering and how attacks can be identified and defended against.
+Cybersecurity practitioner and IT technician focused on enterprise security operations, with a strong interest in detection engineering and how cyber attacks can be identified and defended against.
 
 --- 
 
