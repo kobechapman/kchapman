@@ -34,7 +34,7 @@ Through both my professional work and personal projects, I focus on understandin
 
 ## 🛡️ Cyber Security Projects
 
-### 🧪 [Soc Detection Lab Architecture]
+### 🧪 [Soc Detection Lab Architecture] In Progress...
 
 
  
