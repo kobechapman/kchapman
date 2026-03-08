@@ -8,6 +8,11 @@ I currently work as an Information Technology Technician supporting enterprise n
 Through both my professional work and personal projects, I focus on understanding how enterprise environments operate and how they can be monitored and defended against cyber threats. Much of my portfolio focuses on detection engineering projects that explore how cyber attacks can be identified and investigated within enterprise environments.
 
 ---
+## 🛡️ Cyber Security Projects
+
+### 🧪 [Soc Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
+
+---
 
 ## Tools and Technologies
 **SIEM / Monitoring**
@@ -32,9 +37,6 @@ Through both my professional work and personal projects, I focus on understandin
 - Oracle VirtualBox
 - ParrotOS
 
-## 🛡️ Cyber Security Projects
-
-### 🧪 [Soc Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
 
 
  
