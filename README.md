@@ -16,14 +16,12 @@ Simulated enterprise Active Directory environment designed to generate security 
 
 This lab serves as the foundation for future security projects focused on identifying and analyzing malicious activity within enterprise environments.
 ### 🧪 [Enterprise Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
-### Sneak Peek
+#### Preview:
 
 <details>
 <summary>View Lab Architecture</summary>
-
-<br>
-
-!(enterprise-detection-lab-architecture-diagram.png)
+ 
+![](enterprise-detection-lab-architecture-diagram.png)
 
 </details>
 
