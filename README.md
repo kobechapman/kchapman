@@ -1,5 +1,5 @@
 # Kobe Chapman
-Cybersecurity practitioner and IT technician focused on enterprise security operations, with a strong interest in detection engineering and how cyber attacks can be identified and defended against.
+Cybersecurity Practitioner | Security Operations | Incident Response
 
 --- 
 
@@ -10,7 +10,7 @@ Through both my professional work and personal projects, I focus on understandin
 ---
 ## 🛡️ Cyber Security Projects
 
-### 🧪 [Soc Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
+### 🧪 [Enterprise Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
 
 ---
 
