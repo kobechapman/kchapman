@@ -18,29 +18,31 @@ Through both my professional work and personal projects, I focus on understandin
 ## Tools and Technologies
 
 ### Security Monitoring & SIEM
-- Splunk Enterprise
-- Sysmon
-- Windows Event Logging
-- Splunk Universal Forwarder
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge)
+![Windows Event Logs](https://img.shields.io/badge/Windows_Event_Logs-0078D6?style=for-the-badge&logo=windows)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
+![Splunk Universal Forwarder](https://img.shields.io/badge/Splunk_Universal_Forwarder-000000?style=for-the-badge&logo=splunk)
 
 ### Enterprise Infrastructure
-- Active Directory
-- Windows Server
-- Windows 10 / Windows 11
-- DHCP / DNS
-- Microsoft Entra ID (Azure AD)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows)
+![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows)
+![DHCP](https://img.shields.io/badge/DHCP-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-00599C?style=for-the-badge)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft)
 
 ### Networking 
-- Cisco Meraki
-- Verkada
-- OPNsense Firewall
+![Cisco Meraki](https://img.shields.io/badge/Cisco_Meraki-1BA0D7?style=for-the-badge&logo=cisco)
+![Verkada](https://img.shields.io/badge/Verkada-000000?style=for-the-badge)
+![OPNsense](https://img.shields.io/badge/OPNsense-F15833?style=for-the-badge)
 
 ### Virtual Lab Infrastructure
-- Oracle VirtualBox
-- Parrot OS
+![Oracle VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-1F6FEB?style=for-the-badge)
 
 ### Scripting 
-- PowerShell
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
 
 
 
