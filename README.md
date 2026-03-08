@@ -39,6 +39,9 @@ Through both my professional work and personal projects, I focus on understandin
 - Oracle VirtualBox
 - Parrot OS
 
+### Scripting 
+- PowerShell
+
 
 
  
