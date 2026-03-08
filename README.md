@@ -16,27 +16,28 @@ Through both my professional work and personal projects, I focus on understandin
 ---
 
 ## Tools and Technologies
-**SIEM / Monitoring**
+
+### Security Monitoring & SIEM
 - Splunk Enterprise
 - Sysmon
-- Windows Event Logs
+- Windows Event Logging
 - Splunk Universal Forwarder
 
-**Infrastructure**
+### Enterprise Infrastructure
 - Active Directory
 - Windows Server
-- Windows 10/11
-- DHCP/DNS
-- Azure/Entra
-  
-**Networking & Infrastructure Platforms**
+- Windows 10 / Windows 11
+- DHCP / DNS
+- Microsoft Entra ID (Azure AD)
+
+### Networking 
 - Cisco Meraki
 - Verkada
-  
-**Security Lab Technologies**
 - OPNsense Firewall
+
+### Virtual Lab Infrastructure
 - Oracle VirtualBox
-- ParrotOS
+- Parrot OS
 
 
 
