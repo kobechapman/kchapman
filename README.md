@@ -23,7 +23,7 @@ This lab serves as the foundation for future security projects focused on identi
 
 <br>
 
-!(enterprise-detection-lab-architecture.png)
+!(enterprise-detection-lab-architecture-diagram.png)
 
 </details>
 
