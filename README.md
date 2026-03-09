@@ -14,7 +14,7 @@ Through both my professional work and personal projects, I focus on understandin
 ### Enterprise Detection Lab Architecture
 Simulated enterprise Active Directory environment designed to generate security telemetry and conduct attack detection and incident investigation projects.
 
-This lab serves as the foundation for future security projects focused on identifying and analyzing malicious activity within enterprise environments.
+This lab serves as the foundation for future cybersecurity projects focused on identifying and analyzing malicious activity within enterprise environments.
 ### 🧪 [Enterprise Detection Lab Architecture](https://github.com/kobechapman/enterprise-detection-lab-architecture)
 **Preview:**
 
